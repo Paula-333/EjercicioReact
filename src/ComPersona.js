@@ -1,7 +1,7 @@
 
-import React from 'react';
+/*import React from 'react';
 
-class CompPersona extends React.Component{
+class ComPersona extends React.Component{
     constructor(){
         super();
         this.state = {
@@ -30,4 +30,4 @@ class CompPersona extends React.Component{
 }
 }
 
-export default CompPersona;
+export default ComPersona;+*/
